@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://rafael-portfolio-gules.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mesquita-neves-5b2996178/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raff.neves/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rafamesquita378/featured)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmesneves&show_icons=true&theme=gruvbox)
 
